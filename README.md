@@ -27,4 +27,3 @@ Certainly! Below is the provided table formatted in Markdown:
 | 6   | df_warehsoue_date_range_time_feature_holidays_lags_seasonal | Seasonal data                                          | Yes              | 383.298 | 0.862  |
 | 7   | df_warehsoue_date_range_time_feature_holidays_lags_seasonal_trend | Trend data                                        | Yes              | 957.506 | 0.141  |
 
-You can copy and paste this Markdown code into any Markdown-compatible editor or viewer to see the formatted table. If you need any further adjustments or additional information, feel free to ask!
