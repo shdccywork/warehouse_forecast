@@ -1,0 +1,7 @@
+,df_ML,RMSE,R²
+0,df_warehsoue_date_range_time_feature_holidays,522.756,0.744
+1,df_warehouse_date_range,938.704,0.175
+2,df_warehouse_date_range_time_feature,521.117,0.746
+3,df_warehsoue_date_range_time_feature_holidays_lags_seasonal_trend,957.506,0.141
+4,df_warehsoue_date_range_time_feature_holidays_lags,394.714,0.854
+5,df_warehsoue_date_range_time_feature_holidays_lags_seasonal,383.298,0.862
